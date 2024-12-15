@@ -63,4 +63,4 @@ This upgraded and Optimized Hack have
 - Will the XP hack affect my Duolingo learning path (complete lessons?)
     - No, it will not. This hack creates fake "practice" lessons so it won't affect your learning path.
 - Is this hack detectable (will I get banned)?
-    - No, it is not. I tested all functions and hacks overnight before I released them. I got 20,500,000 XP on Duolingo account in one night with the XP hack, and it's been weeks with no ban.
+    - No, it is not. I tested all functions and hacks overnight before I released them. I got 20,500,000 XP on Duolingo account in 10 hours with the XP hack, and it's been weeks with no ban.
